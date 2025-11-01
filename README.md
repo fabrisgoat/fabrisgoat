@@ -23,3 +23,7 @@ I'm a sixth-semester Industrial Engineering student with a strong interest in te
  
  <img border="0" alt="Hrugved's LinkedIn" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
  </a>
+  <a href="fabmgba.19@gmail.com">
+ <img border="0" alt="Hrugved's Mail" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
+ </a>
+</p>
