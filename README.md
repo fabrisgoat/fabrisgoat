@@ -82,3 +82,5 @@ I'm a sixth-semester Industrial Engineering student with a strong interest in te
  
 
 <br> 
+
+#### <p align="center"><b>Thank you for taking the time to read my profile 🤣🤣</b></p>
