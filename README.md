@@ -6,3 +6,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
 I'm a sixth-semester Industrial Engineering student with a strong interest in technology, programming, and artificial intelligence. While I'm still exploring different areas, I'm passionate about learning how automation and AI can transform industry and everyday life.
+ <img border="0" alt="Alamin's Portfolio" src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/40/000000/external-resume-business-recruitment-itim2101-lineal-color-itim2101.png">
+ </a>
+ <a href="https://www.linkedin.com/in/fabrizzioab/">
