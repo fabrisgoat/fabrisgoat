@@ -55,3 +55,27 @@ I'm a sixth-semester Industrial Engineering student with a strong interest in te
     <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoft%20sql%20server&logoColor=white"/>
   </a>
 </p>
+
+### 💻 IDEs/Editors
+
+<p align="left"> 
+  <a href="https://code.visualstudio.com/" target="_blank"> 
+   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
+  </a>   
+  
+  <a href="https://developer.android.com/studio" target="_blank">
+    <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?logo=android-studio&logoColor=white">
+  </a> 
+ </p>
+ 
+### 🥅 Others:
+<a href="https://opencv.org" target="_blank"><img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?logo=opencv&logoColor=white"></a>
+<a href="https://numpy.org" target="_blank"><img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?logo=numpy&logoColor=white"></a>
+<a href="https://pandas.pydata.org" target="_blank"><img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?logo=pandas&logoColor=white"></a>
+<a href="https://www.canva.com" target="_blank"><img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?logo=Canva&logoColor=white"></a>
+<a href="https://www.office.com" target="_blank"><img alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?logo=microsoft-office&logoColor=white"></a>
+<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white"></a>
+
+ 
+
+<br> 
