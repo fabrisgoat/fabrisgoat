@@ -1,3 +1,4 @@
-Hello my name is fabrizzio , i like programer in my free hous 
-Actually study in The National University of Engenering
-I have many ganas of learn !
+"Hello, my name is Fabrizzio.
+I like programming in my free time.
+I am currently studying at the National University of Engineering.
+I am very eager to learn!"
